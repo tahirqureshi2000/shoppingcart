@@ -1,2 +1,2 @@
 # shoppingcart
-Online store clothes, add to cart using php
+Online store clothes,shoes sales add to cart using php
